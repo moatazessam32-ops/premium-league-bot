@@ -1,0 +1,20 @@
+import os
+import json
+
+DATA_DIR = os.path.join(os.getcwd(), "data")
+if not os.path.exists(DATA_DIR):
+    os.makedirs(DATA_DIR)
+
+MATCH_DATA_FILE = os.path.join(DATA_DIR, "match_data.json")
+PLAYER_DATA_FILE = os.path.join(DATA_DIR, "player_data.json")
+WARN_DATA_FILE = os.path.join(DATA_DIR, "warn_data.json")
+SUSP_DATA_FILE = os.path.join(DATA_DIR, "suspensions.json")
+
+# ----- CHANNELS -----
+MATCH_CATEGORY_ID = 1437876849534435375
+QUEUE_CHANNEL_ID = 1437876848938848503
+MATCH_LOG_CHANNEL_ID = 1437876849207410922
+WARN_CHANNEL_ID = 1437876849207410923
+SUSPEND_CHANNEL_ID = 1437876849207410924
+ELO_CHANNEL_ID = 1437876848938848506
+ELO_LOG_CHANNEL_ID =  1437876848938848507

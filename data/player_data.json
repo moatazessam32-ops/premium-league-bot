@@ -1,0 +1,94 @@
+{
+    "513024420151951394": {
+        "elo": 50,
+        "wins": 0,
+        "losses": 0,
+        "cancels": 1,
+        "games": 0,
+        "warnings": 0,
+        "cooldown": false,
+        "maps": {
+            "Sub Base": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 1
+            },
+            "Black Widow": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Mexico": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Ankara": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Port": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Compound": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "EAGLE EYE 2.0": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            }
+        }
+    },
+    "1427439788071321713": {
+        "elo": 50,
+        "wins": 0,
+        "losses": 0,
+        "cancels": 1,
+        "games": 0,
+        "warnings": 0,
+        "cooldown": false,
+        "maps": {
+            "Sub Base": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 1
+            },
+            "Black Widow": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Mexico": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Ankara": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Port": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "Compound": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            },
+            "EAGLE EYE 2.0": {
+                "wins": 0,
+                "losses": 0,
+                "cancels": 0
+            }
+        }
+    }
+}
